@@ -24,4 +24,4 @@ Before you start the workshop, make sure you have the following:
 - Google Colab or a local Jupyter environment
 
 ## Jupyter Notebook:
-[Google Colab Notebook](ttps://colab.research.google.com/drive/1RiMYr7EjLUfRbNgj7bkL9cvBThGAtyzb?usp=sharing)
+[Google Colab Notebook](https://colab.research.google.com/drive/1RiMYr7EjLUfRbNgj7bkL9cvBThGAtyzb?usp=sharing)
