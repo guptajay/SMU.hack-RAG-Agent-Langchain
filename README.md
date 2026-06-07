@@ -25,3 +25,6 @@ Before you start the workshop, make sure you have the following:
 
 ## Jupyter Notebook:
 [Google Colab Notebook](https://colab.research.google.com/drive/1RiMYr7EjLUfRbNgj7bkL9cvBThGAtyzb?usp=sharing)
+
+## Slides:
+[Google Slides](https://docs.google.com/presentation/d/1jLPdc79XYhWA8yxD8b524RUIKpFzD3CBRVMDOHEDI_s/edit?usp=sharing)
